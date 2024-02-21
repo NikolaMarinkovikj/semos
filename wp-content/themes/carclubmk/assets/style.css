@@ -1,0 +1,36 @@
+.c-card {
+  background-color: #000;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.c-headline {
+  text-align: center;
+}
+
+.c-card_inner {
+  background-color: #d40000;
+  height: 300px;
+}
+.c-card_card {
+  color: #fff;
+}/*# sourceMappingURL=style.css.map */
+
+.c-cards{
+  display: flex;
+}
+
+.c-cards_card{
+  width: 400px;
+  border: 1px solid #d40000;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+.c-cards_icon img{
+  height: 100px;
+}
